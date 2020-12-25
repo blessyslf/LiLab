@@ -350,8 +350,8 @@ body {
 
 .pic15 {
   position: absolute;
-  left: 15vw;
-  top: 26vw;
+  left: 75vw;
+  top: 25vw;
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
@@ -359,8 +359,44 @@ body {
 
 .pic16 {
   position: absolute;
-  left: 20vw;
-  top: 33vw;
+  left: 80vw;
+  top: 32vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic17 {
+  position: absolute;
+  left: 79vw;
+  top: 43vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic18 {
+  position: absolute;
+  left: 75vw;
+  top: 50vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic19 {
+  position: absolute;
+  left: 60vw;
+  top: 52vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic20 {
+  position: absolute;
+  left: 65vw;
+  bottom: -11vw;
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
