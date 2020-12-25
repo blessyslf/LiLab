@@ -17,15 +17,19 @@ body {
 .rhexagon1 {
   position: absolute;
   left: 12.5vw;
-  top: -1vw;
+  top: -5vw;
   box-sizing: border-box;
+  width: 15vw;
+  height: 15vw;
 }
 
 .rhexagon2 {
   position: absolute;
   left: 73vw;
-  top: -1vw;
+  top: -5vw;
   box-sizing: border-box;
+  width: 15vw;
+  height: 15vw;
 }
 
 .rhexagon3 {
@@ -67,17 +71,21 @@ body {
 .rhexagon7 {
   position: absolute;
   left: 12.5vw;
-  bottom: -11vw;
+  top: 52vw;
   box-sizing: border-box;
   transform: rotate(180deg);
+  width: 15vw;
+  height: 15vw;
 }
 
 .rhexagon8 {
   position: absolute;
   left: 73vw;
-  bottom: -11vw;
+  top: 52vw;
   box-sizing: border-box;
   transform: rotate(180deg);
+  width: 15vw;
+  height: 15vw;
 }
 
 .ghexagon1 {
@@ -85,13 +93,17 @@ body {
   left: 60vw;
   bottom: -11vw;
   box-sizing: border-box;
+  width: 15vw;
+  height: 15vw;
 }
 
 .ghexagon2 {
   position: absolute;
   left: 42vw;
-  top: 0vw;
+  top: -5vw;
   box-sizing: border-box;
+  width: 15vw;
+  height: 15vw;
 }
 
 .ghexagon3 {
@@ -105,10 +117,12 @@ body {
 
 .ghexagon4 {
   position: absolute;
-  left: 42vw;
-  bottom: -11vw;
+  left: 42.5vw;
+  top: 52vw;
   box-sizing: border-box;
   transform: rotate(180deg);
+  width: 15vw;
+  height: 15vw;
 }
 
 .ghexagon5 {
@@ -141,7 +155,7 @@ body {
 .bhexagon1{
   position: absolute;
   left: 0vw;
-  bottom: -11vw;
+  top: 48.5vw;
   box-sizing: border-box;
   width: 14vw;
   height: 14vw;
@@ -172,6 +186,7 @@ body {
   box-sizing: border-box;
   width: 14vw;
   height: 14vw;
+  top: 49vw;
 }
 
 .bhexagon5 {
@@ -306,7 +321,7 @@ body {
 .pic10 {
   position: absolute;
   left: 35vw;
-  bottom: -11vw;
+  top: 62vw;
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
@@ -396,7 +411,7 @@ body {
 .pic20 {
   position: absolute;
   left: 65vw;
-  bottom: -11vw;
+  top: 62vw;
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
