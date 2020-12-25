@@ -311,3 +311,57 @@ body {
   width: 5vw;
   height: 5vw;
 }
+
+.pic11 {
+  position: absolute;
+  left: 63vw;
+  top: 0vw;
+  box-sizing: border-box;
+  width: 4vw;
+  height: 4vw;
+}
+
+.pic12 {
+  position: absolute;
+  left: 65vw;
+  top: 5vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic13 {
+  position: absolute;
+  left: 75vw;
+  top: 15vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic14 {
+  position: absolute;
+  left: 80vw;
+  top: 7vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic15 {
+  position: absolute;
+  left: 15vw;
+  top: 26vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic16 {
+  position: absolute;
+  left: 20vw;
+  top: 33vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
