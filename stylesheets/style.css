@@ -384,6 +384,8 @@ body {
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
+  animation: shake-top 05s cubic-bezier(0.8, 0.6, 0.5, 0.955) 2s infinite both;
+
 }
 
 .pic16 {
