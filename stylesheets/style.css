@@ -413,7 +413,7 @@ body {
   box-sizing: border-box;
   width: 5vw;
   height: 5vw;
-  animation: shake-top 1s cubic-bezier(0.455, 0.030, 0.515, 0.955) 2s infinite both;
+  animation: shake-top 1s cubic-bezier(0.465, 0.030, 0.515, 0.955) 2s infinite both;
 
 }
 
