@@ -275,3 +275,39 @@ body {
   width: 5vw;
   height: 5vw;
 }
+
+.pic7 {
+  position: absolute;
+  left: 20vw;
+  top: 42vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic8 {
+  position: absolute;
+  left: 15vw;
+  top: 49vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic9 {
+  position: absolute;
+  left: 30vw;
+  top: 52vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic10 {
+  position: absolute;
+  left: 35vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
