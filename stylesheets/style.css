@@ -1,0 +1,259 @@
+@import "reset.css";
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+
+  background: black;
+  width: 100vw;
+  height: 900px;
+
+}
+
+.rhexagon1 {
+  position: absolute;
+  left: 12.5vw;
+  top: -1vw;
+  box-sizing: border-box;
+}
+
+.rhexagon2 {
+  position: absolute;
+  left: 73vw;
+  top: -1vw;
+  box-sizing: border-box;
+}
+
+.rhexagon3 {
+  position: absolute;
+  left: -4vw;
+  top: 14vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.rhexagon4 {
+  position: absolute;
+  left: 57vw;
+  top: 13.5vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.rhexagon5 {
+  position: absolute;
+  right: -4vw;
+  top: 31vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.rhexagon6 {
+  position: absolute;
+  left: 26vw;
+  top: 31vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.rhexagon7 {
+  position: absolute;
+  left: 12.5vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  transform: rotate(180deg);
+}
+
+.rhexagon8 {
+  position: absolute;
+  left: 73vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  transform: rotate(180deg);
+}
+
+.ghexagon1 {
+  position: absolute;
+  left: 60vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+}
+
+.ghexagon2 {
+  position: absolute;
+  left: 42vw;
+  top: 0vw;
+  box-sizing: border-box;
+}
+
+.ghexagon3 {
+  position: absolute;
+  left: 57vw;
+  top: 31vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.ghexagon4 {
+  position: absolute;
+  left: 42vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  transform: rotate(180deg);
+}
+
+.ghexagon5 {
+  position: absolute;
+  left: -4vw;
+  top: 31vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.ghexagon6 {
+  position: absolute;
+  right: -4vw;
+  top: 13.5vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.ghexagon7 {
+  position: absolute;
+  left: 26vw;
+  top: 13.5vw;
+  box-sizing: border-box;
+  width: 17.5vw;
+  height: 17.5vw;
+}
+
+.bhexagon1{
+  position: absolute;
+  left: 0vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  width: 14vw;
+  height: 14vw;
+}
+
+.bhexagon2{
+  position: absolute;
+  left: 0vw;
+  top: 0vw;
+  box-sizing: border-box;
+  width: 14vw;
+  height: 14vw;
+}
+
+.bhexagon3{
+  position: absolute;
+  right: 0vw;
+  top: -1vw;
+  box-sizing: border-box;
+  width: 14vw;
+  height: 14vw;
+}
+
+.bhexagon4{
+  position: absolute;
+  right: 0vw;
+  bottom: -11vw;
+  box-sizing: border-box;
+  width: 14vw;
+  height: 14vw;
+}
+
+.bhexagon5 {
+  position: absolute;
+  left: 38.5vw;
+  top: 2vw;
+  box-sizing: border-box;
+
+  width: 23.5vw;
+  height: 23.5vw;
+}
+
+.bhexagon6 {
+  position: absolute;
+  left: 38.5vw;
+  top: 19vw;
+  box-sizing: border-box;
+
+  width: 23.5vw;
+  height: 23.5vw;
+}
+
+.bhexagon7 {
+  position: absolute;
+  left: 38.5vw;
+  top: 36vw;
+  box-sizing: border-box;
+
+  width: 23.5vw;
+  height: 23.5vw;
+}
+
+.text {
+  position: absolute;
+  width: 12.847vw;
+  height: 8.056vw;
+  left: 43.8vw;
+  top: 27vw;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4vw;
+  line-height: 2.3vw;
+  text-align: center;
+
+  color: #99D4BC;
+
+}
+
+.pic1 {
+  position: absolute;
+  left: 30vw;
+  top: 0vw;
+  box-sizing: border-box;
+  width: 4vw;
+  height: 4vw;
+}
+
+.pic2 {
+  position: absolute;
+  left: 35vw;
+  top: 5vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic3 {
+  position: absolute;
+  left: 20vw;
+  top: 8vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic4 {
+  position: absolute;
+  left: 15vw;
+  top: 15vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
