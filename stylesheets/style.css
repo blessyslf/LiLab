@@ -68,6 +68,7 @@ body {
   box-sizing: border-box;
   width: 17.5vw;
   height: 17.5vw;
+  animation: heartbeat 2s ease-in-out infinite both;
 }
 
 .rhexagon7 {
@@ -78,6 +79,7 @@ body {
   transform: rotate(180deg);
   width: 15vw;
   height: 15vw;
+  
 }
 
 .rhexagon8 {
@@ -88,7 +90,6 @@ body {
   transform: rotate(180deg);
   width: 15vw;
   height: 15vw;
-  animation: heartbeat 2s ease-in-out infinite both;
 }
 
 .ghexagon1 {
@@ -193,6 +194,7 @@ body {
   width: 14vw;
   height: 14vw;
   top: 49vw;
+  animation: heartbeat 2s ease-in-out infinite both;
 }
 
 .bhexagon5 {
@@ -200,9 +202,10 @@ body {
   left: 38.5vw;
   top: 2vw;
   box-sizing: border-box;
-
   width: 23.5vw;
   height: 23.5vw;
+  animation: blink-2 4s cubic-bezier(0.550, 0.05, 0.680, 0.530) infinite both;
+}
 }
 
 .bhexagon6 {
