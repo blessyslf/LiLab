@@ -257,3 +257,21 @@ body {
   width: 5vw;
   height: 5vw;
 }
+
+.pic5 {
+  position: absolute;
+  left: 15vw;
+  top: 26vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
+
+.pic6 {
+  position: absolute;
+  left: 20vw;
+  top: 33vw;
+  box-sizing: border-box;
+  width: 5vw;
+  height: 5vw;
+}
